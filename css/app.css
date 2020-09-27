@@ -1,0 +1,29 @@
+.header{
+	width: 90%;
+    margin: auto;
+ 
+}
+.bg-header{
+	    background-color: #fff!important;
+}
+
+.btn-mybutton{
+ color: #fff;
+    background-color: #7D21E8;
+    border-color: #7D21E8;
+}
+
+.btn-mybutton:hover {
+    color: #fff;
+    background-color: #B06BFF;
+    border-color: #B06BFF;
+}
+
+
+.text-brand {
+    color: #5712A6!important;
+}
+
+.text-para {
+    color: #82809C!important;
+}
