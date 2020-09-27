@@ -1,0 +1,26 @@
+body{
+	width: 100vw;
+	height: 100vh;
+	margin: 0;
+	overflow: hidden;
+}
+
+.curved{
+	position: relative;
+	background-color: #993DFF;
+	color: #fff;
+	text-align: center;
+	overflow: hidden;
+}
+
+
+.h-50{
+	height: 50px;
+}
+.curved svg{
+	display: block;
+}
+
+.upper{
+	background-color: #fff;
+}
